@@ -1,0 +1,128 @@
+Learner’s Dictionary — Privacy Policy
+
+Last updated: 2025-08-24
+Owner/Publisher: CoreSpeak
+Contact: [deeperlanguage@gmail.com](mailto:deeperlanguage@gmail.com)
+
+This Privacy Policy explains what we collect, how we use it, and your choices when using the Learner’s Dictionary Android app and its public API (“Service”). The app has two experiences:
+• Free tier (with ads)
+• Paid/Upgraded tier (no ads; same core features)
+
+1. Data we collect
+
+a) Account and identity
+• Email address and display name from Google Sign-In (Firebase Authentication)
+• Firebase user ID (UID) and Firebase ID tokens
+
+b) App activity and usage
+• Feature usage needed to enforce fair use and quotas (for example, word lookups, text-to-speech counts)
+• Time, endpoint, and status of requests; non-sensitive request metadata such as language code
+
+c) Content you send to AI/TTS
+• Text-to-Speech (ElevenLabs): the text you ask us to synthesize is sent to our voice provider to generate audio
+• AI (Gemini): prompts/inputs you send to AI features are sent to Google’s Generative AI APIs to produce results
+
+d) Device and technical information
+• IP address and basic device/network details present in server logs
+• App/session identifiers (for example, Firebase UID; an app-set identifier used to group sessions and apply quotas)
+
+e) Advertising data (FREE TIER ONLY)
+• Advertising ID (AAID) and related device signals
+• Approximate location (inferred from IP), app version, and ad events (impressions, clicks) used by ad partners for ad delivery, frequency capping, fraud detection, and—where required and with consent—personalization
+
+Please avoid placing personal, medical, financial, or other sensitive data into prompts or TTS text.
+
+2. How we use data
+
+• Provide the Service: authenticate you, fulfill lookups, generate audio, and deliver results
+• Quota and abuse control: count daily usage per feature to prevent abuse and manage free tiers
+• Reliability and security: monitor errors, performance, and security events in logs
+• Support and improvement: debug issues and improve quality (in aggregated or de-identified form where possible)
+• Ads (free tier): show ads; with your consent where required we may enable personalized ads. You can choose non-personalized ads.
+• Legal compliance: comply with applicable law and enforce our terms
+
+We do not sell your personal information. For certain US state privacy laws, free-tier ads may be considered “sharing” for cross-context behavioral advertising; you can opt out (see “Your choices and rights”).
+
+3. Third-party processing (sub-processors)
+
+We rely on these vendors to run the Service. They process data solely to provide their functions.
+
+• Google Firebase Authentication — Sign-in with Google; data: email, display name, UID/ID token
+• Google Cloud (Run, SQL, Logging, Storage) — Hosting, database, logs; data: account and usage data, IP/log metadata
+• Google Generative AI (Gemini) — AI generation; data: your prompts/inputs and necessary context
+• ElevenLabs — Text-to-Speech; data: text to synthesize and selected voice/model
+• Google AdMob (free tier) — Ads delivery and measurement; data: AAID, IP, app info, ad events, approximate location; personalization only with consent where required; supports non-personalized ads
+
+All traffic uses TLS in transit. Providers encrypt data at rest by default.
+
+4. Ads and tracking (free tier)
+
+• We use Google AdMob to serve ads.
+• In the EEA/UK, we present a consent prompt (for example, Google UMP). You can choose Personalized, Non-personalized, or Ad-free via upgrade.
+• In the US, we honor applicable state privacy choices (IAB GPP signals).
+• Non-personalized ads still use limited data (such as AAID) for frequency capping, measurement, and fraud prevention.
+• Paid tier shows no ads and does not send AAID to ad partners from within the paid experience.
+
+5. Data retention
+
+• Account and profile: kept while you have an account
+• Usage/quotas and request metadata: typically up to 12 months, then deleted or aggregated
+• Server logs: typically 30–90 days
+• Generated audio: processed on demand; not stored server-side beyond processing (no long-term cache by default)
+• AI prompts/outputs: stored only as needed to show results and maintain reliability
+
+6. Security
+
+• TLS encryption in transit; provider encryption at rest (Google Cloud/SQL/Logging)
+• Least-privilege access for service accounts and secrets (Google Secret Manager)
+• Access auditing and rate limiting on sensitive endpoints
+
+If we learn of a security incident that affects your data, we will notify affected users and authorities as required.
+
+7. Your choices and rights
+
+• Access/Update or Delete account: email [deeperlanguage@gmail.com](mailto:deeperlanguage@gmail.com) (or use in-app “Delete Account” if available). Account deletion removes personal data, subject to legal/backup retention.
+• Ads controls (free tier):
+– EEA/UK: use the in-app consent dialog (“Manage privacy choices”) to switch Personalized ↔ Non-personalized
+– Device settings: Android → Google → Ads → Delete advertising ID / Opt out of Ads Personalization
+– US state “Do Not Sell/Share”: use any in-app link labeled “Do Not Sell/Share My Info” to signal opt-out; we pass that signal to ad partners
+– Go ad-free: upgrade to the paid tier
+
+Regional rights: If you are in the EEA/UK (GDPR) or California/US states (CCPA/CPRA etc.), you may have rights to access, deletion, portability, and restriction/objection. Contact [deeperlanguage@gmail.com](mailto:deeperlanguage@gmail.com). We do not sell personal information.
+
+8. International transfers
+
+We host primarily in the United States and use providers that may process data globally. Where required, we apply appropriate safeguards such as Standard Contractual Clauses.
+
+9. Children
+
+The Service is not directed to children under 13 (or the minimum age in your country). We do not knowingly collect personal data from children. If you believe a child has provided personal data, contact [deeperlanguage@gmail.com](mailto:deeperlanguage@gmail.com) and we will delete it. For compliant inventory, we do not request personalized ads for child-directed content.
+
+10. Changes to this policy
+
+We may update this policy. Material changes will be posted here with a new “Last updated” date. Continued use after changes indicates acceptance.
+
+11. Contact
+
+CoreSpeak
+[deeperlanguage@gmail.com](mailto:deeperlanguage@gmail.com)
+
+Google Play “Data safety” summary (Free vs Paid)
+
+Collected (linked to you):
+• Personal info: email address, display name
+• App activity: feature usage counters (for example, TTS calls)
+• Device or other IDs: Firebase UID; app-set ID; Advertising ID (free tier only)
+• Approximate location: inferred by ad partners from IP (free tier only)
+• Diagnostics/Crash logs: if present in server logs
+
+Shared with third parties (processing only):
+• Text for TTS → ElevenLabs
+• Prompts/inputs for AI → Google Generative AI
+• Authentication/hosting → Google Firebase/Cloud
+• Ads (free tier) → AdMob receives AAID, app info, IP/approximate location, and ad events
+
+Purposes: app functionality, reliability/diagnostics, advertising (free tier), and fraud/abuse prevention.
+Security: encrypted in transit and at rest by providers.
+Data deletion: available upon request; account deletion removes personal data, subject to legal/backup retention.
+Paid tier: no ads; advertising identifiers are not used in the paid experience.
