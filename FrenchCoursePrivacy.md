@@ -57,13 +57,7 @@ We **do not** request location permissions or access to your photos, camera, mic
 
 ---
 
-## 5) Web Content & External Links
-
-Lessons are primarily rendered locally for reading. Some lessons may contain links to external sites you choose to open. Those sites are operated by third parties with their own privacy practices. We are not responsible for their content or policies.
-
----
-
-## 6) Data Sharing
+## 5) Data Sharing
 
 * We do **not** sell or rent your personal data.
 * We do **not** share your locally stored progress/preferences with third parties.
@@ -72,32 +66,32 @@ Lessons are primarily rendered locally for reading. Some lessons may contain lin
 
 ---
 
-## 7) Data Security & Retention
+## 6) Data Security & Retention
 
 * **Local data:** Stored on your device until you delete it (delete the App).
 * We use reasonable safeguards within our control, but no method of storage or transmission is 100% secure.
 
 ---
 
-## 8) Children's Privacy
+## 7) Children's Privacy
 
 This App is intended for a general audience and is **not** directed to children under 13 (or the relevant age in your jurisdiction). We do not knowingly collect personal information from children. If you believe a child has provided personal information, contact us to request deletion.
 
 ---
 
-## 9) International Transfers
+## 8) International Transfers
 
 The App Store and external websites you visit may process and store data on servers located outside your country. Their use of your information is governed by their privacy policies and applicable laws.
 
 ---
 
-## 10) Changes to This Policy
+## 9) Changes to This Policy
 
 We may update this Privacy Policy from time to time. We will post updates within the App or on the App Store listing and revise the **Effective Date** above. Please review it periodically.
 
 ---
 
-## 11) Contact Us
+## 10) Contact Us
 
 If you have questions about this Privacy Policy or our practices, contact:
 
