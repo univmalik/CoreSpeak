@@ -1,8 +1,8 @@
-# Privacy Policy for **French – Complete Course**
+# Privacy Policy for **Learn French – Complete Course**
 
 **Effective Date:** January 9, 2026
 
-This Privacy Policy explains how we handle information in connection with the **French – Complete Course** mobile application (the "App").
+This Privacy Policy explains how we handle information in connection with the **Learn French – Complete Course** mobile application (the "App").
 
 We are committed to protecting your privacy. This policy describes what the App does and does **not** collect and your choices.
 
