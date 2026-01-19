@@ -32,7 +32,7 @@ The App offers **monthly subscriptions** and a **one-time purchase** to unlock p
 * We do **not** receive or store your payment card details or billing address.
 * The store may process information necessary to complete transactions and manage subscriptions (such as purchase history, region, and device/account identifiers) under its own privacy policy.
 
-To provide access to premium content, the App may check your **purchase/subscription status** with the store and store an “unlocked/active” flag **locally on your device**. We do not send your purchase information to our own servers.
+To provide access to premium content, the App may check your **purchase/subscription status** with the store and store an “unlocked/active” flag **locally on your device**. We do not send your purchase information to our own servers. The App may also download resourcs from Play Assets Delivery but that is handled solely by Goole Play Services.
 
 ---
 
@@ -61,7 +61,7 @@ We **do not** request precise location permissions (e.g., ACCESS_FINE_LOCATION).
 
 ## 5) Web Content & External Links
 
-Lessons are primarily rendered locally for reading. Some lessons may contain links to external sites you choose to open. Those sites are operated by third parties with their own privacy practices. We are not responsible for their content or policies.
+Lessons are primarily rendered locally for reading. There is no external link in any section of the application.
 
 ---
 
