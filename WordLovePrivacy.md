@@ -45,7 +45,21 @@ Word Love heavily relies on **Firebase** (provided by Google) for infrastructure
 We implement strict Cloud Firestore Security Rules. Your personal profile data, learning progress, and device registration data are strictly bound to your account and can only be read or modified when you are securely authenticated.
 
 ## 5. Data Retention and Deletion
-Your data is retained as long as your account is active to ensure your learning progress is never lost. If you decide you no longer want to use the App, you may request account deletion. Deleting your account will immediately and permanently erase your user profile, saved words, and device registration information from our active database.
+Your data is retained as long as your account is active to ensure your learning progress is never lost. If you decide you no longer want to use the App, you may request that your account and associated data be deleted.
+
+**How to Request Account Deletion:**
+You can request account deletion at any time through one of the following methods:
+1. **In the App:** Navigate to **Settings > Account** and tap on **Delete Account**. Follow the on-screen prompts to confirm.
+2. **Via Email:** Contact our support team directly at deeperlanguage@gmail.com with the subject line "Account Deletion Request" from the email address associated with your account.
+
+**What Happens When You Delete Your Account:**
+Deleting your account will immediately and permanently erase the following data from our active database:
+- Your user profile and authentication data.
+- All saved words, favorites, and vocabulary progress in your "Word Jar".
+- Premium subscription associations (Note: You must still cancel your active subscription through your Apple App Store or Google Play Store settings to prevent future billing).
+- Device registration identifiers.
+
+Once deleted, this data cannot be recovered.
 
 ## 6. Children's Privacy
 Word Love does not knowingly collect personal identifiable information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take necessary actions to remove that data.
