@@ -2,7 +2,7 @@
 
 **Last Updated: April 1, 2026**
 
-This Privacy Policy describes how Word Love ("we", "us", or "our") collects, uses, and shares your information when you use our Word Love mobile application across iOS and Android (the "App").
+This Privacy Policy describes how Word Love ("we", "us", or "our") collects, uses, and shares your information when you use our Word Love mobile application across iOS (the "App").
 
 ## 1. Information We Collect
 
@@ -28,7 +28,7 @@ When you use the App, we securely register your device with our backend. We coll
 - App Check validation statuses to prevent automated abuse and secure our backend APIs.
 
 ### d. Subscription Information
-If you choose to upgrade to Word Love Premium, your purchase is processed securely by the Apple App Store or Google Play Store. We store standard receipt validation data (such as transaction IDs and subscription expiry dates) to ensure you have cross-platform access to Premium features like unlimited daily words. **We do not collect, process, or store your credit card information or direct billing details.**
+If you choose to upgrade to Word Love Premium, your purchase is processed securely by the Apple App Store. We store standard receipt validation data (such as transaction IDs and subscription expiry dates) to ensure you have cross-platform access to Premium features like unlimited daily words. **We do not collect, process, or store your credit card information or direct billing details.**
 
 ## 2. How We Use Your Information
 
@@ -56,7 +56,7 @@ You can request account deletion at any time through one of the following method
 Deleting your account will immediately and permanently erase the following data from our active database:
 - Your user profile and authentication data.
 - All saved words, favorites, and vocabulary progress in your "Word Jar".
-- Premium subscription associations (Note: You must still cancel your active subscription through your Apple App Store or Google Play Store settings to prevent future billing).
+- Premium subscription associations (Note: You must still cancel your active subscription through your Apple App Store settings to prevent future billing).
 - Device registration identifiers.
 
 Once deleted, this data cannot be recovered.
