@@ -16,4 +16,4 @@ For subscription billing, upgrades, cancellations, and refunds, Apple App Store 
 
 ## Privacy and Account Deletion
 
-For privacy questions or account deletion requests, please refer to the [Word Love Privacy Policy](PrivacyPolicy.md).
+For privacy questions or account deletion requests, please refer to the https://github.com/univmalik/CoreSpeak/blob/main/WordLovePrivacy.md.
