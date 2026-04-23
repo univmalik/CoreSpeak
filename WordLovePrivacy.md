@@ -2,7 +2,7 @@
 
 **Last Updated: April 1, 2026**
 
-This Privacy Policy describes how Word Love ("we", "us", or "our") collects, uses, and shares your information when you use our Word Love mobile application across iOS (the "App").
+This Privacy Policy describes how Word Love ("we", "us", or "our") collects, uses, and shares your information when you use our Word Love mobile application across iOS and Android (the "App").
 
 ## 1. Information We Collect
 
@@ -28,7 +28,7 @@ When you use the App, we securely register your device with our backend. We coll
 - App Check validation statuses to prevent automated abuse and secure our backend APIs.
 
 ### d. Subscription Information
-If you choose to upgrade to Word Love Premium, your purchase is processed securely by the Apple App Store. We store standard receipt validation data (such as transaction IDs and subscription expiry dates) to ensure you have cross-platform access to Premium features like unlimited daily words. **We do not collect, process, or store your credit card information or direct billing details.**
+If you choose to upgrade to Word Love Premium, your purchase is processed securely by the Apple App Store or Google Play Store. We store standard receipt validation data (such as transaction IDs and subscription expiry dates) to ensure you have cross-platform access to Premium features like unlimited daily words. **We do not collect, process, or store your credit card information or direct billing details.**
 
 ## 2. How We Use Your Information
 
@@ -39,24 +39,24 @@ We use the collected data exclusively to operate and maintain the App:
 - **Security & Stability**: To monitor the health of the App, prevent abusive requests via App Check, and ensure a secure environment.
 
 ## 3. Third-Party Services
-Word Love heavily relies on **Firebase** (provided by Google) for infrastructure, including Authentication, Cloud Firestore (database), and Cloud Functions. Your data is stored securely on Firebase servers and is subject to Google's privacy standards. We do not integrate third-party advertising or marketing trackers (like Google Analytics for Ads or Facebook SDK) into Word Love.
+Word Love heavily relies on **Firebase** (provided by Google) for infrastructure, including Authentication, Cloud Firestore (database), and Cloud Functions. Your data is stored securely on Firebase servers and is subject to Google's privacy standards. We do not integrate third-party advertising or marketing trackers (like Google Anaalytics for Ads or Facebook SDK) into Word Love.
 
 ## 4. Data Security
 We implement strict Cloud Firestore Security Rules. Your personal profile data, learning progress, and device registration data are strictly bound to your account and can only be read or modified when you are securely authenticated.
 
 ## 5. Data Retention and Deletion
-Your data is retained as long as your account is active to ensure your learning progress is never lost. If you decide you no longer want to use the App, you may request that your account and associated data be deleted.
+Your data is retained as long as your account is active to ensure your learning progress is never lost. If you decide you no longer want to use the App, you can permanently delete your account and associated data from within the App.
 
-**How to Request Account Deletion:**
-You can request account deletion at any time through one of the following methods:
-1. **In the App:** Navigate to **Settings > Account** and tap on **Delete Account**. Follow the on-screen prompts to confirm.
-2. **Via Email:** Contact our support team directly at deeperlanguage@gmail.com with the subject line "Account Deletion Request" from the email address associated with your account.
+**How to Delete Your Account:**
+You can permanently delete your account at any time in the App by going to `Settings` > `Account` > `Delete account`.
+
+If you cannot access your signed-in account and need deletion help, you can contact our support team at deeperlanguage@gmail.com from the email address associated with your account.
 
 **What Happens When You Delete Your Account:**
 Deleting your account will immediately and permanently erase the following data from our active database:
 - Your user profile and authentication data.
 - All saved words, favorites, and vocabulary progress in your "Word Jar".
-- Premium subscription associations (Note: You must still cancel your active subscription through your Apple App Store settings to prevent future billing).
+- Premium subscription associations (Note: You must still cancel your active subscription through your Apple App Store or Google Play Store settings to prevent future billing).
 - Device registration identifiers.
 
 Once deleted, this data cannot be recovered.
