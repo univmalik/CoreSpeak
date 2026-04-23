@@ -69,3 +69,5 @@ We may update our Privacy Policy occasionally. We will notify you of any changes
 
 ## 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy or your data, please contact our support team.
+
+Contact: deeperlanguage@gmail.com
